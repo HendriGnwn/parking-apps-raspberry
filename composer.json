@@ -1,5 +1,7 @@
 {
     "require": {
-        "mike42/escpos-php": "^1.5"
+        "mike42/escpos-php": "^1.5",
+        "guzzlehttp/guzzle": "~6.0",
+		"eventviva/php-image-resize": "1.6.*"
     }
 }
